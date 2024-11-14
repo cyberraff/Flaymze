@@ -1,10 +1,10 @@
 'use client';
 import React from 'react';
-import { usePathname } from 'next/navigation';
-import { Facebook, Instagram, Mail, Phone, Twitter } from 'lucide-react';
+// import { usePathname } from 'next/navigation';
+import { Instagram, Twitter } from 'lucide-react';
 import { FaTiktok, FaWhatsapp } from 'react-icons/fa6';
 
-import { links } from './Navbar';
+// import { links } from './Navbar';
 import Link from 'next/link';
 
 const socials = [
@@ -18,7 +18,6 @@ const socials = [
 ];
 
 export default function Footer() {
-
 	return (
 		<footer className=''>
 			{/**/}
