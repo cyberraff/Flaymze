@@ -13,7 +13,7 @@ export default async function Services() {
 	return (
 		<>
 			<h1 className='text-3xl font-medium pt-8 pb-4 text-center'>
-				ABOUT US
+				OUR SERVICES
 			</h1>
 			{/* <div className=' relative w-[85%] mx-auto overflow-hidden pb-[46.25%]'> */}
 			<Image
