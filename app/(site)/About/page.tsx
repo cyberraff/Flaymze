@@ -29,7 +29,7 @@ export default async function About() {
 				height={450}
 				priority
 				// className=' absolute top-0 left-0 w-full h-full object-cover '
-				className='embla__slide__img w-full h-[25rem] sm:h-[30rem] md:w-[95%] md:h-[35rem] lg:w-[90%] lg:h-[40rem] xl:h-[45rem] 2xl:h-[50rem] mx-auto md:mt-8  object-cover  p-4'
+				className='embla__slide__img w-full h-[25rem] sm:h-[30rem] md:w-[95%] md:h-[35rem] lg:w-[90%] lg:h-[40rem] xl:h-[45rem] 2xl:h-[50rem] mx-auto md:mt-8  object-cover  p-4 sm:px-8 md:px-16 lg:px20'
 			/>
 			{/* </div> */}
 
