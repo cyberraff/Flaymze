@@ -23,7 +23,7 @@ export default async function Services() {
 				height={450}
 				priority
 				// className=' absolute top-0 left-0 w-full h-full object-cover '
-				className='w-full h-[30rem] sm:w-[95%] sm:h-[35rem] md:w-[90%] md:h-[40rem] lg:w-[85%] lg:h-[45rem] xl:h-[50rem] 2xl:h-[55rem] mx-auto md:mt-8  object-cover  p-8'
+				className='embla__slide__img w-full h-[25rem] sm:h-[30rem] md:w-[95%] md:h-[35rem] lg:w-[90%] lg:h-[40rem] xl:h-[45rem] 2xl:h-[50rem] mx-auto md:mt-8  object-cover  p-4'
 			/>
 			<div className=' px-4 sm:px-6 max-w-5xl py-2 bg-background lg:max-w-7xl  mx-auto  text-center'>
 				<div className=' px-8 md:px-16 lg:px-36'>

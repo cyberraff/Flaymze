@@ -156,7 +156,7 @@ const EmblaCarousel: React.FC<HeroCarouselProps> = (props) => {
 								width={450}
 								height={450}
 								priority
-								className='embla__slide__img '
+								className='embla__slide__img w-full h-[25rem] sm:h-[30rem] md:w-[95%] md:h-[35rem] lg:w-[90%] lg:h-[40rem] xl:h-[45rem] 2xl:h-[50rem] mx-auto md:mt-8  object-cover  p-4'
 								// className='  rounded-sm rounded-tr-[5rem] rounded-bl-[5rem] md:mt-8 '
 							/>
 							<div className='pt-4 sm:text-lg lg:text-2xl text-end '>
